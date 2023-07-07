@@ -1,1 +1,0 @@
-import{f as a,a9 as s,r,W as i}from"./index.140fe4bf.js";function o(t){const e=s();e&&a(e.proxy,t)}function f(t){const e=r(!1);return i(t,n=>{n&&(e.value=n)},{immediate:!0}),n=>()=>e.value?n():null}export{f as a,o as u};
